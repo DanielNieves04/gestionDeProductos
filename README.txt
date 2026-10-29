@@ -70,8 +70,6 @@ Instala las dependencias necesarias y ejecuta el proyecto siguiendo las instrucc
 **Daniel Nieves**
 
 Ingeniero de Sistemas | Desarrollo Backend | Análisis de Bases de Datos
-
-- GitHub: [DanielNieves04](https://github.com/DanielNieves04)
 - LinkedIn: [Perfil profesional](https://www.linkedin.com/in/nieves-urbano-daniel-alejandro-606b58307/)
 
 ---
